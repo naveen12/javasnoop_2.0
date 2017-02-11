@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/32/trunk/resources
+END
+startup.bat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8/trunk/resources/startup.bat
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/32/trunk/resources/README.txt
+END
+startup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/12/trunk/resources/startup.sh
+END
+safe.policy
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/resources/safe.policy
+END
+unsafe.policy
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/resources/unsafe.policy
+END
+startup.ps1
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/30/trunk/resources/startup.ps1
+END
